@@ -1,4 +1,4 @@
-# DataScience
+# Data Science
 Projects related to machine learning, deep learning, etc.
 
 1. **House price prediction** - Model to predict the price of house given its year of sale, age, location, etc. Implemented dense neural netowrk with three hidden layers and output layer. Used *tensorflow (keras)* framework with *adadelta optimizer* and *earlystopping callback*.
